@@ -1,0 +1,6 @@
+::ng-deep div.bar-chart{
+  position: relative;
+  margin: auto;
+  height: 600px !important;
+  width: 1200px;
+  }
